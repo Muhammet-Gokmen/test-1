@@ -1,1 +1,1 @@
-SELECT * FROM client WHERE city='istanbul';
+SELECT * FROM client WHERE city='Stockholm';
